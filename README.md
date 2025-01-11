@@ -16,7 +16,7 @@ Power BI Hospital Emergency Room Analytics Dashboard provides comprehensive insi
 - Highest selling category?
 - Percentage of Total Orders delivered
 
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+- Dashboard Interaction <a href="<iframe title="Hospital Emergency Dashboard" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiMWJiMzNjOGEtODBlYS00MmFhLTliMGMtOTNjOWQ5MzYwNjhiIiwidCI6IjEwYmM5OGE5LTZlYWMtNDYzYi04M2E1LWUzODFiYWQ3ZjIwZCJ9" frameborder="0" allowFullScreen="true"></iframe>">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
@@ -26,8 +26,7 @@ Power BI Hospital Emergency Room Analytics Dashboard provides comprehensive insi
 
 ## Dashboard
 
-![Screenshot 2025-01-11 190129.jpg]([https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e](https://github.com/c0mmander63/Hospital-Emergency-Dashboard---Power-BI/blob/main/Screenshot%202025-01-11%20190129.jpg)
-
+![Screenshot 2025-01-11 190129](https://github.com/user-attachments/assets/ef0031b7-c529-41f4-90e8-6c57eba24133)
 
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
