@@ -1,5 +1,4 @@
-# Hospital Emergency Room Dashboard (Interactive Dashboard using
-Power BI)
+# Hospital Emergency Room Dashboard (Interactive Dashboard using Power BI)
 ## Project Objective
 The aim of this project is to develop a comprehensive Hospital Emergency Room Analysis Dashboard to provide actionable insights into emergency room performance. This tool enables stakeholders to make data-driven decisions to optimize patient management and enhance service efficiency.
 
